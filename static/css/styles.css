@@ -1,23 +1,38 @@
 /* General Styles */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
+html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(180deg, #f1f1f1, #d0d0d0);  /* Soft gradient background */
+    overflow-x: hidden;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    background: #f5f5f5; /* Lighter gray for smoother transition */
+}
+
+/* Header */
 .header {
-    background-color: #FFD700;
+    background-color: #FFD700; /* Bright gold color */
     color: black;
     padding: 20px;
     text-align: center;
-    border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
 }
 
 .header img {
-    width: 60px;
-    vertical-align: middle;
+    height: 2.5em;
     margin-right: 15px;
 }
 
@@ -25,10 +40,12 @@ body {
     display: inline-block;
     font-size: 2.5em;
     font-weight: bold;
+    margin: 0;
 }
 
+/* Navigation */
 .navigation {
-    margin: 20px;
+    margin: 20px 0;
     text-align: center;
 }
 
@@ -44,25 +61,80 @@ body {
     color: #FFD700;
 }
 
+/* Content */
 .content {
-    margin: 20px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    margin: 40px auto; /* Adjusted margin for better spacing */
+    padding: 30px;
+    background-color: #ffffff; /* White background for content */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);  /* Slightly deeper shadow */
+    width: 70%;
+    max-width: 650px; /* Slightly increased max-width */
+    box-sizing: border-box;
+    border: 1px solid #ddd;  /* Lighter border for content */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
+/* Headings and Text */
+.content h2 {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 1.1em;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Button */
+.button {
+    padding: 12px 25px;
+    font-size: 1.2em;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #FFD700;
+    color: black;
+}
+
+/* Footer */
 .footer {
-    margin-top: 30px;
-    padding: 10px;
+    padding: 15px;
     text-align: center;
     background-color: #FFD700;
-    border-radius: 8px;
+    width: 100%;
     font-size: 0.9em;
     color: black;
 }
 
-.success {
-    color: green;
-    font-weight: bold;
+/* Form Input Field */
+form input[type="number"] {
+    padding: 12px;
+    font-size: 1.2em;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+form input[type="number"]:focus {
+    border-color: #FFD700;
 }

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Raiffeisen Bank</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="header">
@@ -17,7 +18,11 @@
         <a href="{{ url_for('page2') }}">Page 2</a>
     </div>
     <div class="content">
-        {% block content %}{% endblock %}
+        <h2>Personalized Financial Recommendations</h2>
+        <form action="/submit" method="POST">
+            <input type="number" name="integerValue" placeholder="Enter an integer" required><br>
+            <button type="submit" class="button">Submit</button>
+        </form>
     </div>
     <div class="footer">
         © 2024 Raiffeisen Bank. All Rights Reserved.
