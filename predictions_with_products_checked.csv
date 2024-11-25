@@ -1,0 +1,1001 @@
+Client ID,Predicted Product(s),Income,Age,Experience,Mortgage,CCAvg_Yearly
+1502,Online Banking,35000,30,4,0,3600
+2587,"Online Banking, Premium Credit Card, Mortgage Offer",149000,47,23,0,73200
+2654,"Online Banking, Premium Credit Card",121000,30,5,408000,37200
+1056,"Online Banking, Personal Loan, Mortgage Offer",62000,31,6,0,12000
+706,Online Banking,30000,62,36,0,8400
+107,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",69000,43,17,0,34800
+590,"Online Banking, Premium Credit Card, Mortgage Offer",128000,31,7,0,72000
+2469,"Online Banking, Premium Credit Card, Mortgage Offer",133000,49,23,0,87600
+2414,Online Banking,31000,60,34,0,12000
+1601,"Online Banking, Premium Credit Card",129000,60,36,0,72000
+2465,Online Banking,32000,60,36,165000,4800
+229,Online Banking,53000,47,22,98000,22800
+916,"Online Banking, Premium Credit Card",184000,53,28,303000,97200
+795,"Online Banking, Personal Loan, CD Account",44000,54,29,0,27600
+3022,"Online Banking, Securities Account, Credit Card",159000,54,28,461000,6000
+3544,"Online Banking, Securities Account, Credit Card, Mortgage Offer",194000,37,11,0,0
+1074,"Online Banking, Securities Account, Credit Card, Mortgage Offer",122000,33,8,0,0
+3352,"Online Banking, Securities Account, Mortgage Offer",191000,52,26,0,20400
+1745,Online Banking,29000,28,3,135000,9600
+1085,"Online Banking, Premium Credit Card",191000,60,35,0,67200
+927,Online Banking,22000,33,9,103000,4800
+3050,"Online Banking, Premium Credit Card",125000,60,35,0,46800
+1118,"Online Banking, Securities Account",145000,42,18,132000,20400
+643,"Online Banking, Securities Account, Credit Card, Mortgage Offer",103000,50,24,0,3600
+4768,Online Banking,45000,35,9,101000,10800
+502,Online Banking,39000,50,26,0,22800
+4067,"Online Banking, Personal Loan, CD Account",61000,61,37,0,24000
+334,"Online Banking, Securities Account",140000,63,38,0,30000
+4685,"Online Banking, Premium Credit Card",103000,59,34,0,31200
+487,"Online Banking, Premium Credit Card",84000,55,30,304000,44400
+1963,"Online Banking, Premium Credit Card, Mortgage Offer",155000,28,4,0,75960
+394,Online Banking,18000,53,28,109000,1200
+4843,"Online Banking, Premium Credit Card",174000,49,23,590000,55200
+4867,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",71000,41,17,0,38400
+1756,"Online Banking, Personal Loan",55000,28,3,0,20400
+2516,Online Banking,34000,31,5,156000,22800
+3586,"Online Banking, Personal Loan",45000,45,18,0,12000
+4316,Online Banking,62000,51,26,119000,21600
+4967,Online Banking,34000,41,17,143000,8400
+2100,Online Banking,10000,53,29,0,4800
+3600,Online Banking,23000,45,19,91000,1200
+4122,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling, Mortgage Offer",65000,53,27,0,33600
+30,"Online Banking, Premium Credit Card, Mortgage Offer",119000,38,13,0,39600
+66,"Online Banking, Premium Credit Card",131000,59,35,0,45600
+839,Online Banking,29000,45,20,0,22800
+3907,"Online Banking, Personal Loan, CD Account",60000,61,35,0,30000
+3774,Online Banking,83000,62,36,0,28800
+4636,Online Banking,85000,30,5,293000,30000
+3162,"Online Banking, Premium Credit Card, Mortgage Offer",88000,28,4,0,64800
+2660,Online Banking,43000,60,35,175000,10800
+4616,"Online Banking, Credit Card, Mortgage Offer",84000,37,12,0,8400
+4629,"Online Banking, Premium Credit Card, Mortgage Offer",130000,27,1,0,34800
+2452,"Online Banking, Premium Credit Card",119000,51,25,208000,58800
+2847,"Online Banking, Securities Account",105000,67,43,0,20400
+1145,"Online Banking, Premium Credit Card, Mortgage Offer",91000,49,24,0,33600
+3079,"Online Banking, Credit Card",63000,38,13,190000,6000
+1104,"Online Banking, Personal Loan",49000,38,14,0,21600
+169,Online Banking,13000,50,26,0,12000
+1671,Online Banking,25000,38,14,101000,4800
+2571,"Online Banking, Premium Credit Card",154000,30,4,207000,54000
+2378,"Online Banking, Premium Credit Card, Mortgage Offer",160000,47,23,0,80040
+4396,Online Banking,25000,66,41,0,7200
+4258,"Online Banking, Personal Loan",48000,43,17,0,26400
+3863,"Online Banking, Personal Loan, CD Account",64000,60,34,0,30000
+24,Online Banking,43000,44,18,163000,8400
+2634,Online Banking,13000,49,25,106000,4800
+3341,"Online Banking, Personal Loan",54000,29,3,0,21600
+2216,"Online Banking, Premium Credit Card, Mortgage Offer",193000,28,3,0,48000
+3683,"Online Banking, Personal Loan",45000,43,17,0,8400
+4725,Online Banking,21000,34,8,0,12000
+1908,"Online Banking, Securities Account, Credit Card, Mortgage Offer",115000,42,18,0,3600
+85,Online Banking,18000,46,22,0,10800
+228,"Online Banking, Premium Credit Card, Mortgage Offer",148000,47,23,0,90000
+297,"Online Banking, Securities Account, Credit Card, Mortgage Offer",122000,34,9,0,0
+1002,Online Banking,55000,57,32,108000,25200
+2139,Online Banking,40000,36,11,166000,13200
+712,Online Banking,83000,62,37,187000,21600
+2802,Online Banking,41000,58,34,177000,4800
+2528,"Online Banking, Personal Loan",43000,27,1,0,13200
+3753,Online Banking,82000,55,30,219000,15600
+3322,"Online Banking, Premium Credit Card, Mortgage Offer",120000,41,15,0,62400
+3182,"Online Banking, Securities Account, Mortgage Offer",109000,39,15,0,20400
+4184,"Online Banking, Premium Credit Card",140000,41,17,342000,42000
+1616,"Online Banking, Personal Loan, CD Account",63000,62,36,0,30000
+3025,"Online Banking, Personal Loan",78000,61,35,0,24000
+1414,Online Banking,12000,48,24,0,4800
+764,"Online Banking, Personal Loan, CD Account, Credit Card, Mortgage Offer",65000,54,28,0,2400
+656,Online Banking,13000,50,25,0,8400
+4798,Online Banking,24000,37,11,0,12000
+3850,Online Banking,34000,42,18,0,24000
+4154,"Online Banking, Premium Credit Card, Mortgage Offer",148000,50,26,0,81600
+469,Online Banking,21000,34,10,0,6000
+158,"Online Banking, Premium Credit Card, Mortgage Offer",83000,41,17,0,32040
+1296,Online Banking,28000,42,17,90000,6000
+498,"Online Banking, Premium Credit Card, Mortgage Offer",94000,48,22,0,31200
+4741,"Online Banking, Premium Credit Card",178000,56,30,0,34800
+2941,Online Banking,43000,27,3,163000,1200
+3457,"Online Banking, Premium Credit Card, Mortgage Offer",125000,46,22,0,56400
+374,Online Banking,20000,49,25,111000,12000
+80,Online Banking,19000,50,26,118000,4800
+1554,"Online Banking, Credit Card, Mortgage Offer",83000,46,22,0,8400
+1670,Online Banking,21000,43,18,0,16800
+2132,Online Banking,15000,55,31,0,2400
+4440,"Online Banking, Premium Credit Card, Mortgage Offer",104000,33,7,0,43200
+466,Online Banking,35000,66,42,172000,22800
+249,Online Banking,99000,55,29,264000,16800
+932,"Online Banking, Personal Loan",43000,27,3,0,12000
+1336,"Online Banking, Securities Account, Mortgage Offer",180000,50,24,0,20400
+4525,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",79000,48,24,0,8400
+1339,"Online Banking, Personal Loan, CD Account",42000,51,27,0,1200
+1407,Online Banking,20000,53,23,0,4800
+1091,"Online Banking, Personal Loan, Mortgage Offer",79000,31,5,0,26400
+4210,Online Banking,21000,35,9,125000,16800
+743,"Online Banking, Mortgage Offer",81000,32,6,0,30000
+2324,"Online Banking, Securities Account",113000,31,7,315000,24000
+3602,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",75000,37,13,0,31200
+2124,Online Banking,9000,28,2,0,1200
+2095,Online Banking,64000,57,31,208000,30000
+241,Online Banking,70000,51,26,169000,14400
+2352,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",74000,55,31,0,38400
+1371,Online Banking,20000,30,5,117000,6000
+1058,"Online Banking, Personal Loan, Mortgage Offer",63000,30,0,0,21000
+4817,"Online Banking, Premium Credit Card, Mortgage Offer",83000,50,24,0,36000
+200,"Online Banking, Premium Credit Card, Mortgage Offer",158000,36,11,0,61200
+2281,Online Banking,30000,33,7,132000,24000
+4750,Online Banking,21000,31,5,0,12000
+2221,"Online Banking, Personal Loan, Credit Card",80000,65,40,0,9600
+4772,"Online Banking, Mortgage Offer",85000,36,11,0,14400
+2820,Online Banking,10000,63,37,0,4800
+3151,"Online Banking, Premium Credit Card, Mortgage Offer",124000,47,22,0,60000
+4257,"Online Banking, Premium Credit Card",165000,41,17,157000,91200
+3108,"Online Banking, Personal Loan",55000,41,17,0,20400
+1974,Online Banking,11000,47,22,78000,0
+1376,"Online Banking, Premium Credit Card, Mortgage Offer",179000,50,26,0,34800
+3969,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",78000,28,3,0,2400
+4063,"Online Banking, Personal Loan",43000,38,14,0,20400
+4446,"Online Banking, Securities Account",135000,49,25,82000,16800
+3558,"Online Banking, Budget Adjustment Counseling",54000,46,20,189000,34800
+965,Online Banking,78000,27,1,157000,27600
+180,Online Banking,11000,62,37,0,1200
+3699,"Online Banking, Personal Loan, Credit Card",59000,38,12,0,6000
+3822,"Online Banking, Premium Credit Card",188000,35,9,259000,44400
+4879,"Online Banking, Personal Loan",41000,34,9,0,12000
+3900,"Online Banking, Personal Loan, CD Account",43000,60,34,0,16800
+4488,"Online Banking, Premium Credit Card, Mortgage Offer",81000,38,14,0,43200
+3239,"Online Banking, Personal Loan, CD Account",49000,52,28,0,13200
+2975,"Online Banking, Personal Loan",52000,42,18,0,22800
+3581,"Online Banking, Personal Loan, Mortgage Offer",62000,41,16,0,26400
+2888,"Online Banking, Securities Account, Mortgage Offer",109000,40,16,0,26400
+2576,"Online Banking, Personal Loan",41000,42,16,0,6000
+1420,Online Banking,39000,30,4,0,18000
+3908,Online Banking,42000,40,14,187000,3600
+4674,Online Banking,18000,50,23,88000,12000
+4903,"Online Banking, Personal Loan",58000,33,8,0,30000
+1861,"Online Banking, Premium Credit Card",179000,30,6,142000,58800
+9,"Online Banking, Credit Card",81000,35,10,104000,7200
+2895,Online Banking,19000,49,25,0,10800
+2848,Online Banking,21000,44,18,0,2400
+3665,"Online Banking, Personal Loan",43000,48,24,0,22800
+145,"Online Banking, Personal Loan, Mortgage Offer",70000,49,23,0,18000
+2105,"Online Banking, Personal Loan, Credit Card",58000,40,14,0,2400
+3144,Online Banking,38000,50,24,0,1200
+842,"Online Banking, Premium Credit Card",121000,57,33,0,51600
+1129,"Online Banking, Securities Account, Mortgage Offer",171000,30,5,0,22800
+152,"Online Banking, Premium Credit Card, Mortgage Offer",132000,26,0,0,78000
+3592,Online Banking,73000,58,32,224000,27600
+1053,Online Banking,49000,43,17,103000,26400
+1591,"Online Banking, Budget Adjustment Counseling",58000,49,23,188000,31200
+3009,"Online Banking, Premium Credit Card",92000,55,25,158000,36000
+2030,"Online Banking, Personal Loan, Mortgage Offer",61000,30,3,0,24000
+3419,Online Banking,40000,57,31,0,16800
+1808,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",61000,46,20,0,4800
+2697,"Online Banking, Personal Loan",78000,63,37,0,20400
+3040,"Online Banking, Premium Credit Card, Mortgage Offer",141000,34,9,0,58800
+473,Online Banking,31000,43,19,156000,3600
+3290,Online Banking,44000,50,25,187000,3600
+4075,Online Banking,23000,60,35,0,3600
+3497,Online Banking,49000,37,13,192000,24000
+280,"Online Banking, Premium Credit Card, Mortgage Offer",155000,39,14,0,46800
+1742,"Online Banking, Premium Credit Card, Mortgage Offer",121000,45,21,0,56400
+4625,"Online Banking, Premium Credit Card, Mortgage Offer",83000,36,11,0,33600
+2887,"Online Banking, Personal Loan",58000,50,25,0,15600
+1942,"Online Banking, Personal Loan, Budget Adjustment Counseling",58000,43,19,0,38400
+101,"Online Banking, Personal Loan, Mortgage Offer",74000,48,23,0,14400
+2805,Online Banking,33000,56,32,0,18000
+3571,Online Banking,32000,54,29,0,7200
+3685,Online Banking,51000,57,31,103000,20400
+3662,"Online Banking, Premium Credit Card, Mortgage Offer",120000,29,4,0,49200
+531,Online Banking,21000,54,30,0,2400
+1887,"Online Banking, Securities Account",115000,65,41,0,20400
+682,"Online Banking, Premium Credit Card, Mortgage Offer",164000,34,9,0,72000
+3795,Online Banking,39000,52,27,0,2400
+3945,"Online Banking, Personal Loan, CD Account",62000,56,26,0,16800
+4667,Online Banking,72000,34,9,124000,27600
+2019,"Online Banking, Securities Account",160000,63,39,0,25200
+1097,Online Banking,29000,43,18,0,3600
+830,"Online Banking, Premium Credit Card, Mortgage Offer",81000,55,30,0,45600
+2806,"Online Banking, Premium Credit Card, Mortgage Offer",182000,37,12,0,69600
+3830,"Online Banking, Personal Loan, CD Account",44000,65,39,0,6000
+4382,Online Banking,39000,33,8,0,9600
+3892,"Online Banking, Personal Loan, CD Account, Credit Card",63000,65,40,0,6000
+765,Online Banking,89000,37,13,314000,20400
+2768,"Online Banking, Credit Card",59000,48,24,144000,0
+4329,"Online Banking, Premium Credit Card",143000,64,38,0,76800
+3296,"Online Banking, Premium Credit Card, Mortgage Offer",141000,42,16,0,48000
+2195,"Online Banking, Securities Account, Mortgage Offer",123000,34,9,0,19200
+2358,Online Banking,34000,44,19,0,0
+3426,Online Banking,12000,23,-1,90000,12000
+3980,"Online Banking, Credit Card",90000,38,14,258000,0
+912,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",68000,47,21,0,31200
+3146,"Online Banking, Premium Credit Card, Mortgage Offer",114000,34,10,0,39600
+1000,Online Banking,18000,60,35,0,18000
+3654,Online Banking,32000,52,27,0,24000
+2484,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",68000,44,18,0,34800
+4077,Online Banking,22000,49,23,0,3600
+2371,"Online Banking, Personal Loan",51000,33,7,0,25200
+4839,"Online Banking, Personal Loan, CD Account",44000,56,30,0,30000
+34,Online Banking,18000,30,6,0,10800
+3790,Online Banking,24000,51,27,0,4800
+1021,Online Banking,29000,54,29,97000,18000
+1648,"Online Banking, Personal Loan, Mortgage Offer",68000,35,5,0,21600
+734,"Online Banking, Personal Loan, Mortgage Offer",80000,49,24,0,14400
+4583,"Online Banking, Personal Loan, Credit Card",69000,25,-1,0,3600
+3275,"Online Banking, Securities Account, Mortgage Offer",110000,31,5,0,18000
+1621,Online Banking,22000,39,14,0,3600
+3136,Online Banking,91000,25,0,321000,21600
+2690,"Online Banking, Premium Credit Card",104000,40,16,249000,40800
+2708,"Online Banking, Securities Account, Credit Card, Mortgage Offer",131000,35,9,0,3600
+298,"Online Banking, Personal Loan, CD Account, Mortgage Offer",70000,55,25,0,16800
+2340,"Online Banking, Personal Loan",72000,56,31,0,24000
+654,Online Banking,78000,49,23,205000,28800
+3775,"Online Banking, Personal Loan, CD Account",52000,51,26,0,21600
+1256,Online Banking,80000,27,1,185000,19200
+4521,"Online Banking, Personal Loan",41000,32,7,0,24000
+231,"Online Banking, Premium Credit Card, Mortgage Offer",92000,47,22,0,33600
+3277,"Online Banking, Premium Credit Card, Mortgage Offer",159000,55,31,0,46800
+3231,"Online Banking, Personal Loan, CD Account",48000,65,40,0,28800
+692,Online Banking,48000,45,18,113000,30000
+2755,Online Banking,61000,26,1,119000,26400
+4864,Online Banking,25000,61,35,142000,9600
+970,"Online Banking, Personal Loan, Credit Card",58000,41,15,0,6000
+634,Online Banking,18000,61,31,0,18000
+4093,"Online Banking, Premium Credit Card, Mortgage Offer",171000,40,15,0,39600
+4078,"Online Banking, Personal Loan, Mortgage Offer",71000,26,0,0,21600
+1322,"Online Banking, Premium Credit Card, Mortgage Offer",123000,27,3,0,64800
+1832,Online Banking,30000,47,22,115000,4800
+2179,"Online Banking, Securities Account, Mortgage Offer",158000,37,13,0,27600
+1418,"Online Banking, Personal Loan",52000,42,18,0,30000
+1783,"Online Banking, Budget Adjustment Counseling",60000,37,11,181000,33600
+4716,Online Banking,35000,65,39,150000,6000
+4702,"Online Banking, Personal Loan, Budget Adjustment Counseling",49000,42,16,0,33600
+4119,Online Banking,34000,40,16,0,8400
+1653,"Online Banking, Premium Credit Card, Mortgage Offer",182000,48,18,0,72000
+1484,"Online Banking, Personal Loan, CD Account",63000,58,32,0,19200
+2276,"Online Banking, Premium Credit Card, Mortgage Offer",115000,40,16,0,40800
+878,"Online Banking, Personal Loan, Credit Card",59000,35,11,0,1200
+3526,Online Banking,13000,59,34,0,10800
+2017,"Online Banking, Credit Card",93000,41,17,218000,9600
+427,"Online Banking, Personal Loan, Mortgage Offer",75000,42,18,0,27960
+627,Online Banking,42000,30,6,100000,2400
+1590,"Online Banking, Securities Account, Credit Card",124000,57,32,0,2400
+2224,"Online Banking, Personal Loan, Mortgage Offer",74000,53,28,0,24000
+2218,"Online Banking, Premium Credit Card",162000,48,24,446000,39600
+4484,"Online Banking, Securities Account",155000,54,28,256000,12000
+1486,Online Banking,99000,34,9,155000,26400
+1740,"Online Banking, Mortgage Offer",83000,33,7,0,30000
+2481,"Online Banking, Personal Loan",50000,39,13,0,28800
+2585,"Online Banking, Premium Credit Card",114000,59,34,0,50400
+2894,"Online Banking, Personal Loan, Mortgage Offer",70000,38,14,0,24000
+150,"Online Banking, Personal Loan",42000,48,22,0,26400
+677,Online Banking,11000,47,23,103000,10800
+1262,Online Banking,84000,63,39,0,21600
+4918,Online Banking,33000,36,10,82000,14400
+13,"Online Banking, Premium Credit Card, Mortgage Offer",114000,48,23,0,45600
+1834,"Online Banking, Securities Account, Credit Card, Mortgage Offer",178000,34,9,0,9600
+3249,"Online Banking, Premium Credit Card, Mortgage Offer",92000,31,6,0,39600
+1492,Online Banking,38000,38,12,0,3600
+2728,"Online Banking, Budget Adjustment Counseling",69000,45,19,220000,33600
+3687,"Online Banking, Securities Account",122000,60,35,0,15600
+1425,Online Banking,92000,29,3,287000,15600
+4606,"Online Banking, Personal Loan",42000,48,22,0,14400
+4596,"Online Banking, Securities Account, Mortgage Offer",101000,32,7,0,26400
+732,"Online Banking, Premium Credit Card, Mortgage Offer",90000,28,3,0,39600
+1232,"Online Banking, Securities Account",144000,66,41,0,30000
+1635,Online Banking,18000,59,34,104000,15600
+3937,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",63000,43,18,0,9600
+1211,"Online Banking, Premium Credit Card, Mortgage Offer",84000,50,24,0,58800
+3269,"Online Banking, Premium Credit Card, Mortgage Offer",111000,43,17,0,64800
+1935,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",69000,44,20,0,9600
+554,"Online Banking, Securities Account, Credit Card, Mortgage Offer",101000,52,28,0,3600
+492,Online Banking,34000,42,18,104000,3600
+2963,Online Banking,81000,23,-2,0,21600
+2330,Online Banking,39000,30,4,0,18000
+2196,Online Banking,33000,51,27,83000,2400
+3065,"Online Banking, Premium Credit Card",83000,59,33,0,52800
+658,Online Banking,23000,38,8,0,8040
+2375,Online Banking,41000,32,5,112000,12000
+2226,Online Banking,25000,54,24,115000,4800
+4265,Online Banking,40000,57,31,0,3600
+1171,"Online Banking, Securities Account, Credit Card, Mortgage Offer",104000,35,10,0,7200
+133,"Online Banking, Personal Loan",51000,31,1,0,21000
+472,Online Banking,30000,50,24,161000,1200
+3226,Online Banking,38000,52,28,0,10800
+1406,"Online Banking, Premium Credit Card, Mortgage Offer",183000,46,22,0,37200
+2877,Online Banking,80000,24,-2,238000,19200
+4505,Online Banking,41000,27,1,147000,21600
+4693,Online Banking,32000,59,35,0,4800
+2827,Online Banking,21000,37,11,0,2400
+288,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",62000,37,12,0,8400
+1870,"Online Banking, Personal Loan, CD Account",44000,55,30,0,24000
+3115,"Online Banking, Personal Loan",55000,29,4,0,24000
+3626,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",71000,47,21,0,34800
+2313,"Online Banking, Mortgage Offer",83000,48,22,0,28800
+4924,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",73000,40,15,0,36000
+1619,Online Banking,29000,29,3,0,12000
+995,"Online Banking, Personal Loan",42000,32,8,0,21600
+1804,"Online Banking, Personal Loan, CD Account",59000,58,32,0,19200
+2643,"Online Banking, Credit Card, Mortgage Offer",81000,54,29,0,0
+4803,"Online Banking, Personal Loan, Budget Adjustment Counseling",58000,35,11,0,33600
+3536,"Online Banking, Personal Loan, CD Account, Mortgage Offer",65000,52,27,0,14400
+4832,Online Banking,42000,30,6,144000,25200
+3912,Online Banking,44000,52,26,148000,9600
+2108,"Online Banking, Credit Card",85000,41,17,229000,2400
+3045,Online Banking,15000,41,16,83000,3600
+417,"Online Banking, Credit Card, Mortgage Offer",85000,40,15,0,4800
+978,Online Banking,45000,54,30,205000,13200
+2418,"Online Banking, Personal Loan",53000,25,0,0,19200
+506,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",69000,36,12,0,37200
+4153,"Online Banking, Credit Card, Mortgage Offer",91000,44,18,0,9600
+4256,"Online Banking, Personal Loan, Budget Adjustment Counseling",78000,59,35,0,33600
+3942,"Online Banking, Budget Adjustment Counseling",79000,57,33,294000,32400
+415,"Online Banking, Personal Loan, CD Account",41000,52,28,0,22800
+4149,"Online Banking, Personal Loan, Mortgage Offer",80000,46,22,0,24000
+1184,Online Banking,35000,50,25,0,20400
+486,Online Banking,15000,60,34,0,9600
+894,"Online Banking, Personal Loan, CD Account",43000,58,32,0,16800
+806,"Online Banking, Premium Credit Card",132000,55,29,307000,70800
+556,Online Banking,35000,34,8,137000,9600
+3826,"Online Banking, Budget Adjustment Counseling",69000,30,6,188000,40800
+1198,Online Banking,8000,48,23,0,4800
+4254,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling, Mortgage Offer",61000,54,28,0,36000
+4059,"Online Banking, Personal Loan, Mortgage Offer",65000,39,15,0,18000
+1294,"Online Banking, Premium Credit Card",81000,56,31,121000,44400
+2222,"Online Banking, Personal Loan",73000,59,33,0,20400
+3505,Online Banking,15000,46,20,0,7200
+3655,"Online Banking, Credit Card",61000,53,28,177000,10800
+4759,Online Banking,40000,46,21,116000,3600
+3007,"Online Banking, Premium Credit Card",169000,62,37,184000,60000
+2094,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",75000,48,23,0,43200
+2188,Online Banking,40000,54,30,0,12000
+3037,Online Banking,14000,33,9,105000,8400
+3919,"Online Banking, Personal Loan, CD Account",65000,60,34,0,20400
+1273,Online Banking,83000,64,39,0,21600
+291,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",80000,51,25,0,58800
+4828,"Online Banking, Premium Credit Card",181000,30,6,230000,51600
+253,"Online Banking, Personal Loan, CD Account",53000,65,40,0,26400
+3246,"Online Banking, Premium Credit Card, Mortgage Offer",81000,47,22,0,43200
+351,"Online Banking, Securities Account, Mortgage Offer",113000,39,14,0,12000
+1188,Online Banking,24000,61,36,87000,18000
+1962,"Online Banking, Premium Credit Card, Mortgage Offer",114000,52,26,0,58800
+423,"Online Banking, Premium Credit Card, Mortgage Offer",145000,46,20,0,75600
+91,"Online Banking, Premium Credit Card, Mortgage Offer",118000,55,30,0,67200
+3730,"Online Banking, Credit Card, Mortgage Offer",82000,43,17,0,1200
+2237,Online Banking,23000,51,24,0,6000
+671,"Online Banking, Budget Adjustment Counseling",61000,23,-1,239000,31200
+3041,Online Banking,33000,28,2,167000,12000
+27,"Online Banking, Credit Card, Mortgage Offer",83000,40,16,0,2400
+430,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",78000,37,13,0,1200
+684,"Online Banking, Premium Credit Card, Mortgage Offer",82000,40,16,0,43200
+4464,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",69000,39,13,0,1200
+3946,"Online Banking, Premium Credit Card",123000,29,3,428000,67200
+3524,"Online Banking, Securities Account, Credit Card, Mortgage Offer",150000,29,4,0,9600
+1542,"Online Banking, Premium Credit Card",154000,61,35,0,82800
+2032,"Online Banking, Personal Loan, Credit Card",80000,60,35,0,6000
+2233,"Online Banking, Securities Account, Credit Card",140000,59,33,262000,6000
+4121,Online Banking,23000,49,23,0,16800
+3236,Online Banking,39000,60,35,0,19200
+255,"Online Banking, Premium Credit Card",134000,65,41,121000,46800
+1030,Online Banking,20000,41,17,0,16800
+4393,"Online Banking, Premium Credit Card, Mortgage Offer",81000,52,27,0,45600
+3801,Online Banking,35000,64,38,0,6000
+4311,"Online Banking, Premium Credit Card",170000,65,41,0,73200
+2510,Online Banking,8000,36,11,81000,2400
+2293,"Online Banking, Securities Account",170000,57,33,0,25200
+1324,"Online Banking, Personal Loan, CD Account",45000,52,26,0,7200
+1551,Online Banking,39000,40,14,0,24000
+4648,"Online Banking, Personal Loan, CD Account",43000,59,35,0,15600
+316,"Online Banking, Personal Loan, Credit Card",51000,24,-2,0,3600
+1243,"Online Banking, Personal Loan",44000,29,4,0,24000
+2451,Online Banking,28000,32,7,0,13200
+1579,Online Banking,12000,38,13,104000,3600
+4626,"Online Banking, Premium Credit Card",102000,45,21,81000,56400
+3117,Online Banking,21000,36,10,0,1200
+70,Online Banking,20000,53,29,0,2400
+860,"Online Banking, Premium Credit Card",124000,63,37,170000,60000
+2754,"Online Banking, Premium Credit Card",195000,54,27,477000,57000
+1633,"Online Banking, Premium Credit Card, Mortgage Offer",93000,31,5,0,37200
+1651,Online Banking,83000,31,6,106000,26400
+3861,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",64000,31,6,0,1200
+3107,Online Banking,21000,36,10,0,1200
+1075,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",75000,39,14,0,36000
+4002,Online Banking,81000,61,35,0,22800
+788,"Online Banking, Premium Credit Card, Mortgage Offer",202000,45,15,0,120000
+2606,"Online Banking, Personal Loan, CD Account",41000,64,40,0,14400
+3631,"Online Banking, Budget Adjustment Counseling",79000,41,16,225000,48000
+2122,Online Banking,38000,41,17,180000,26400
+1875,"Online Banking, Credit Card",82000,37,11,218000,10800
+812,"Online Banking, Personal Loan, CD Account",52000,63,33,0,20040
+388,"Online Banking, Mortgage Offer",82000,31,5,0,21600
+2883,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling, Mortgage Offer",69000,55,31,0,32400
+1176,"Online Banking, Personal Loan, Credit Card",58000,29,4,0,9600
+3198,Online Banking,29000,34,10,0,18000
+2624,"Online Banking, Premium Credit Card, Mortgage Offer",111000,42,17,0,36000
+1352,Online Banking,84000,59,35,0,21600
+411,"Online Banking, Premium Credit Card, Mortgage Offer",110000,47,23,0,39600
+4213,Online Banking,9000,50,23,98000,6000
+110,"Online Banking, Personal Loan, Budget Adjustment Counseling",49000,43,17,0,33600
+4996,Online Banking,40000,29,3,0,22800
+3430,Online Banking,28000,39,14,108000,16800
+2810,"Online Banking, Securities Account, Mortgage Offer",185000,42,16,0,26400
+2595,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",79000,48,23,0,2400
+2837,"Online Banking, Budget Adjustment Counseling",74000,25,1,204000,31200
+2373,"Online Banking, Budget Adjustment Counseling",45000,34,10,153000,33600
+1236,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling",60000,54,28,0,31200
+2147,Online Banking,30000,27,3,80000,12000
+4976,Online Banking,29000,38,11,0,12000
+600,"Online Banking, Securities Account, Mortgage Offer",103000,28,4,0,30000
+1435,"Online Banking, Personal Loan, CD Account",55000,65,41,0,13200
+4997,Online Banking,15000,30,4,85000,4800
+539,Online Banking,11000,31,5,76000,4800
+722,Online Banking,39000,49,24,0,16800
+4411,"Online Banking, Premium Credit Card, Mortgage Offer",153000,39,14,0,36000
+1873,"Online Banking, Mortgage Offer",98000,43,17,0,13200
+2846,Online Banking,85000,62,36,98000,20400
+2054,Online Banking,85000,58,32,161000,24000
+2908,Online Banking,40000,45,20,0,15600
+2255,Online Banking,53000,46,22,109000,20400
+3913,"Online Banking, Personal Loan, Mortgage Offer",69000,40,14,0,18000
+178,Online Banking,65000,29,3,244000,21600
+2891,Online Banking,18000,48,24,0,2400
+3674,"Online Banking, Personal Loan, Mortgage Offer",65000,34,9,0,15600
+81,Online Banking,41000,60,36,174000,15600
+2562,"Online Banking, Premium Credit Card",180000,31,5,144000,34800
+1724,"Online Banking, Personal Loan",55000,39,15,0,18000
+1618,"Online Banking, Personal Loan, CD Account",44000,61,36,0,25200
+1655,"Online Banking, Securities Account",102000,60,34,0,24000
+2329,"Online Banking, Premium Credit Card",130000,27,2,192000,52800
+4614,Online Banking,52000,63,38,218000,20400
+222,"Online Banking, Mortgage Offer",83000,45,19,0,20400
+94,Online Banking,64000,60,34,236000,20400
+2610,"Online Banking, Premium Credit Card, Mortgage Offer",120000,42,18,0,90000
+3383,"Online Banking, Premium Credit Card",103000,62,36,0,33600
+4416,Online Banking,65000,60,35,220000,18000
+1398,"Online Banking, Personal Loan, CD Account",45000,65,41,0,1200
+4687,"Online Banking, Premium Credit Card",113000,61,35,0,33600
+1293,"Online Banking, Securities Account, Credit Card",164000,56,30,234000,6000
+2165,"Online Banking, Securities Account",104000,27,3,184000,30000
+2940,Online Banking,25000,54,24,0,4800
+3669,"Online Banking, Securities Account, Credit Card",129000,38,13,75000,3600
+813,"Online Banking, Personal Loan, Mortgage Offer",65000,36,10,0,26400
+1259,Online Banking,31000,34,8,104000,3600
+890,Online Banking,82000,24,-2,0,19200
+1452,Online Banking,82000,44,20,201000,16800
+3317,"Online Banking, Personal Loan, CD Account",63000,56,26,0,24000
+2560,"Online Banking, Premium Credit Card, Mortgage Offer",88000,36,12,0,32400
+3575,"Online Banking, Personal Loan, CD Account, Credit Card",64000,56,30,0,3600
+2681,Online Banking,31000,60,30,0,18000
+4652,"Online Banking, Personal Loan",58000,48,24,0,20400
+4812,"Online Banking, Premium Credit Card, Mortgage Offer",123000,36,12,0,36000
+4680,"Online Banking, Premium Credit Card, Mortgage Offer",161000,26,0,0,86400
+2965,"Online Banking, Personal Loan, Mortgage Offer",73000,35,10,0,27600
+2673,"Online Banking, Securities Account, Credit Card, Mortgage Offer",131000,30,5,0,6000
+562,"Online Banking, Personal Loan, CD Account",41000,63,33,0,20040
+2779,"Online Banking, Personal Loan, CD Account",61000,56,31,0,15600
+2949,Online Banking,14000,44,18,98000,1200
+2818,"Online Banking, Premium Credit Card",105000,31,7,331000,48000
+2759,Online Banking,35000,62,36,0,8400
+1757,Online Banking,23000,42,17,0,0
+725,Online Banking,92000,64,38,0,24000
+220,"Online Banking, Personal Loan, CD Account",61000,56,30,0,26400
+4140,"Online Banking, Premium Credit Card, Mortgage Offer",81000,29,3,0,34800
+3958,"Online Banking, Personal Loan, Mortgage Offer",75000,40,15,0,13200
+1589,"Online Banking, Personal Loan",55000,29,3,0,13200
+3348,"Online Banking, Personal Loan",78000,65,41,0,24000
+3971,"Online Banking, Personal Loan, CD Account",71000,65,40,0,26400
+4708,Online Banking,91000,59,35,0,19200
+44,"Online Banking, Personal Loan",45000,39,15,0,8400
+3002,"Online Banking, Mortgage Offer",81000,33,7,0,19200
+211,Online Banking,20000,51,26,0,0
+678,"Online Banking, Premium Credit Card, Mortgage Offer",204000,46,21,0,33600
+355,"Online Banking, Securities Account",173000,44,20,419000,16800
+1434,Online Banking,68000,51,25,117000,18000
+950,Online Banking,45000,40,16,204000,7200
+2844,Online Banking,20000,27,3,134000,12000
+578,"Online Banking, Premium Credit Card, Mortgage Offer",149000,52,28,0,81600
+3929,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling",61000,57,33,0,32040
+545,"Online Banking, Premium Credit Card, Mortgage Offer",164000,35,10,0,93600
+368,Online Banking,98000,32,8,175000,24000
+1613,Online Banking,33000,41,17,104000,8400
+3551,Online Banking,19000,40,10,116000,9000
+3717,"Online Banking, Personal Loan, CD Account, Mortgage Offer",65000,55,29,0,30000
+3780,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling, Mortgage Offer",64000,53,27,0,31200
+136,"Online Banking, Personal Loan, CD Account",45000,58,33,0,25200
+4481,"Online Banking, Premium Credit Card, Mortgage Offer",145000,55,30,0,72000
+1438,"Online Banking, Securities Account, Credit Card",123000,28,3,146000,9600
+48,"Online Banking, Securities Account, Credit Card",194000,37,12,211000,2400
+1361,"Online Banking, Premium Credit Card, Mortgage Offer",85000,54,28,0,58800
+735,"Online Banking, Personal Loan, CD Account",53000,66,42,0,13200
+1535,Online Banking,30000,59,34,0,15600
+2005,Online Banking,44000,30,4,143000,22800
+3796,Online Banking,39000,51,25,98000,14400
+2520,Online Banking,10000,60,36,0,12000
+1973,"Online Banking, Securities Account, Mortgage Offer",114000,28,2,0,25200
+997,Online Banking,49000,33,6,214000,20040
+62,"Online Banking, Premium Credit Card",125000,47,21,112000,68400
+1109,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling, Mortgage Offer",61000,55,29,0,33600
+2406,Online Banking,13000,57,32,78000,10800
+96,"Online Banking, Personal Loan",48000,38,12,0,2400
+479,"Online Banking, Premium Credit Card, Mortgage Offer",150000,44,20,0,39600
+4360,"Online Banking, Personal Loan, Budget Adjustment Counseling",58000,38,12,0,33600
+4113,"Online Banking, Credit Card",65000,34,9,104000,8400
+3708,Online Banking,35000,43,18,0,7200
+1102,"Online Banking, Credit Card, Mortgage Offer",95000,42,17,0,6000
+2747,Online Banking,49000,54,29,95000,25200
+2171,"Online Banking, Personal Loan, Credit Card",52000,39,13,0,6000
+323,"Online Banking, Premium Credit Card",101000,63,39,0,46800
+4255,"Online Banking, Personal Loan, CD Account, Mortgage Offer",68000,51,27,0,19200
+3143,"Online Banking, Securities Account, Mortgage Offer",175000,34,8,0,13200
+3538,Online Banking,19000,60,34,0,3600
+4926,"Online Banking, Premium Credit Card",82000,64,39,0,40800
+2925,"Online Banking, Mortgage Offer",98000,51,26,0,15600
+1150,"Online Banking, Premium Credit Card",158000,56,32,0,88800
+3618,Online Banking,30000,37,11,146000,3600
+292,Online Banking,8000,43,16,88000,8040
+3750,"Online Banking, Personal Loan, Mortgage Offer",70000,43,19,0,27960
+3587,"Online Banking, Premium Credit Card, Mortgage Offer",132000,40,15,0,46800
+534,"Online Banking, Securities Account, Mortgage Offer",101000,27,2,0,22800
+3608,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",62000,41,15,0,10800
+2649,"Online Banking, Premium Credit Card, Mortgage Offer",155000,26,0,0,86400
+4811,Online Banking,11000,58,34,96000,3600
+1984,Online Banking,20000,31,5,0,3600
+2933,"Online Banking, Premium Credit Card, Mortgage Offer",154000,41,16,0,84000
+1537,Online Banking,73000,36,12,188000,24000
+4535,"Online Banking, Premium Credit Card, Mortgage Offer",83000,41,17,0,32040
+4173,"Online Banking, Credit Card",75000,67,42,182000,1200
+3361,"Online Banking, Premium Credit Card, Mortgage Offer",133000,48,24,0,60000
+3666,"Online Banking, Personal Loan, Mortgage Offer",70000,43,19,0,27960
+4006,Online Banking,32000,56,32,79000,9600
+3627,Online Banking,28000,24,-3,0,12000
+587,"Online Banking, Securities Account, Credit Card, Mortgage Offer",101000,39,14,0,4800
+3257,"Online Banking, Personal Loan",41000,34,9,0,30000
+2299,Online Banking,9000,48,24,0,6000
+3989,"Online Banking, Premium Credit Card",85000,59,35,0,40800
+585,"Online Banking, Premium Credit Card",114000,40,16,300000,40800
+2424,"Online Banking, Mortgage Offer",82000,50,25,0,15600
+1392,"Online Banking, Mortgage Offer",84000,44,18,0,13200
+4526,"Online Banking, Premium Credit Card, Mortgage Offer",110000,36,11,0,45600
+4921,Online Banking,28000,42,16,91000,18000
+4801,Online Banking,73000,33,7,135000,30000
+3241,Online Banking,63000,62,36,118000,19200
+4282,Online Banking,34000,28,1,162000,18000
+3339,"Online Banking, Personal Loan",43000,35,9,0,14400
+3221,Online Banking,28000,61,35,135000,2400
+2112,Online Banking,40000,60,34,0,19200
+1175,"Online Banking, Personal Loan",42000,36,10,0,14400
+4863,"Online Banking, Personal Loan",44000,33,7,0,3600
+3812,Online Banking,28000,47,23,0,7200
+1868,Online Banking,21000,65,39,0,4800
+2615,"Online Banking, Premium Credit Card, Mortgage Offer",160000,35,11,0,68400
+3867,Online Banking,40000,51,25,0,21600
+4886,Online Banking,28000,54,30,0,9600
+3779,Online Banking,14000,66,41,0,7200
+3847,"Online Banking, Personal Loan",43000,31,5,0,18000
+2417,Online Banking,32000,60,35,80000,3600
+71,"Online Banking, Premium Credit Card, Mortgage Offer",115000,42,18,0,42000
+4881,"Online Banking, Personal Loan, Budget Adjustment Counseling",79000,56,32,0,32040
+1127,"Online Banking, Premium Credit Card, Mortgage Offer",104000,32,8,0,44400
+4025,"Online Banking, Credit Card, Mortgage Offer",82000,41,15,0,1200
+3251,"Online Banking, Securities Account, Mortgage Offer",101000,36,11,0,14400
+3902,"Online Banking, Personal Loan, Budget Adjustment Counseling",53000,34,10,0,31200
+1096,Online Banking,43000,50,25,137000,16800
+4546,Online Banking,35000,61,35,0,2400
+1213,"Online Banking, Personal Loan",44000,34,8,0,2400
+3922,"Online Banking, Personal Loan",48000,30,6,0,14400
+1426,Online Banking,40000,64,38,94000,30000
+3067,Online Banking,40000,63,33,0,20040
+4520,Online Banking,32000,45,21,77000,7200
+2101,"Online Banking, Securities Account, Credit Card",145000,31,6,84000,9600
+808,"Online Banking, Premium Credit Card, Mortgage Offer",162000,52,27,0,97200
+4744,Online Banking,21000,50,26,0,2400
+3751,"Online Banking, Personal Loan, CD Account, Credit Card",52000,57,32,0,6000
+1363,Online Banking,85000,31,5,157000,19200
+2318,"Online Banking, Premium Credit Card",129000,31,5,319000,70800
+4582,"Online Banking, Personal Loan",59000,37,13,0,18000
+4742,"Online Banking, Personal Loan, CD Account",55000,58,32,0,30000
+1026,Online Banking,50000,62,37,169000,18000
+3110,Online Banking,40000,60,34,0,26400
+2111,"Online Banking, Securities Account, Mortgage Offer",104000,28,4,0,30000
+1042,"Online Banking, Personal Loan, CD Account",51000,56,32,0,18000
+1877,"Online Banking, Premium Credit Card",123000,62,38,0,34800
+882,"Online Banking, Premium Credit Card, Mortgage Offer",154000,44,19,0,105600
+4300,"Online Banking, Budget Adjustment Counseling",73000,30,5,133000,31200
+1193,"Online Banking, Premium Credit Card, Mortgage Offer",138000,45,20,0,84000
+4588,"Online Banking, Personal Loan, Credit Card",59000,37,11,0,2400
+4511,Online Banking,20000,64,39,0,1200
+3671,Online Banking,29000,38,14,0,4800
+625,Online Banking,54000,33,6,122000,20040
+2797,Online Banking,30000,57,32,0,24000
+4292,Online Banking,34000,46,21,124000,1200
+4969,"Online Banking, Personal Loan, CD Account",41000,58,32,0,30000
+234,"Online Banking, Personal Loan, CD Account",58000,62,37,0,20400
+4567,"Online Banking, Premium Credit Card, Mortgage Offer",131000,24,0,0,64800
+1663,"Online Banking, Credit Card",84000,63,38,0,1200
+416,Online Banking,38000,35,8,124000,12000
+4247,Online Banking,24000,60,35,0,18000
+2174,Online Banking,34000,34,10,164000,20400
+1457,Online Banking,39000,36,11,0,20400
+747,"Online Banking, Premium Credit Card",85000,62,37,0,40800
+18,"Online Banking, Mortgage Offer",81000,42,18,0,28800
+1201,Online Banking,22000,36,12,91000,12000
+1700,Online Banking,15000,51,25,0,7200
+3254,Online Banking,35000,55,30,118000,18000
+597,"Online Banking, Premium Credit Card, Mortgage Offer",152000,48,22,0,42000
+3227,"Online Banking, Mortgage Offer",82000,32,8,0,18000
+4406,Online Banking,83000,61,35,245000,20400
+4720,"Online Banking, Premium Credit Card, Mortgage Offer",140000,32,8,0,79200
+1506,Online Banking,18000,51,25,93000,3600
+1413,Online Banking,100000,59,33,127000,24000
+1966,"Online Banking, Credit Card, Mortgage Offer",94000,45,20,0,6000
+372,Online Banking,19000,58,34,0,8400
+1341,"Online Banking, Premium Credit Card, Mortgage Offer",82000,35,11,0,40800
+599,Online Banking,11000,56,31,90000,2400
+239,Online Banking,28000,57,32,0,2400
+3401,Online Banking,39000,48,22,0,14400
+2068,"Online Banking, Premium Credit Card",180000,58,32,0,34800
+811,"Online Banking, Personal Loan",41000,32,6,0,24000
+1095,"Online Banking, Personal Loan",44000,50,24,0,21600
+4325,Online Banking,13000,49,24,111000,9600
+4761,Online Banking,18000,50,25,0,0
+3677,Online Banking,22000,62,37,111000,18000
+3465,"Online Banking, Premium Credit Card",172000,61,37,0,51000
+3104,"Online Banking, Personal Loan, CD Account",55000,52,22,0,16800
+2750,"Online Banking, Credit Card",82000,62,37,312000,9600
+2296,Online Banking,39000,53,23,87000,12000
+4193,Online Banking,21000,50,26,89000,2400
+3709,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",74000,31,1,0,48000
+3019,Online Banking,49000,58,32,99000,16800
+4253,"Online Banking, Credit Card, Mortgage Offer",81000,54,29,0,1200
+804,Online Banking,62000,52,27,82000,21600
+4191,"Online Banking, Premium Credit Card",89000,40,16,216000,46800
+3706,Online Banking,30000,30,4,0,12000
+752,Online Banking,98000,53,28,355000,15600
+4645,Online Banking,22000,58,34,0,1200
+2532,Online Banking,14000,59,35,107000,12000
+622,"Online Banking, Securities Account, Mortgage Offer",114000,41,17,0,21600
+2298,Online Banking,31000,59,35,0,4800
+3829,Online Banking,44000,31,6,122000,9600
+567,"Online Banking, Premium Credit Card, Mortgage Offer",175000,53,28,0,43200
+1136,Online Banking,9000,57,33,91000,1200
+1205,"Online Banking, Securities Account",190000,26,1,197000,15600
+1048,"Online Banking, Personal Loan, Mortgage Offer",73000,55,31,0,19200
+52,"Online Banking, Premium Credit Card",131000,61,37,0,34800
+3652,"Online Banking, Securities Account, Mortgage Offer",140000,49,23,0,22800
+1045,"Online Banking, Credit Card",79000,49,24,83000,2400
+2182,Online Banking,32000,45,15,105000,9000
+2689,Online Banking,34000,56,30,0,8400
+535,"Online Banking, Personal Loan, CD Account",41000,53,28,0,7200
+3185,"Online Banking, Premium Credit Card, Mortgage Offer",141000,39,15,0,96000
+3858,Online Banking,39000,63,39,0,22800
+444,Online Banking,29000,48,24,0,12000
+3605,"Online Banking, Personal Loan, CD Account, Credit Card",59000,63,38,0,6000
+196,Online Banking,13000,34,10,95000,12000
+1116,"Online Banking, Mortgage Offer",84000,51,24,0,24000
+766,"Online Banking, Securities Account, Mortgage Offer",109000,47,21,0,21600
+1946,Online Banking,30000,57,33,151000,18000
+3248,"Online Banking, Premium Credit Card, Mortgage Offer",113000,44,20,0,39600
+3003,Online Banking,95000,37,13,83000,20400
+1433,"Online Banking, Premium Credit Card, Mortgage Offer",195000,26,2,0,75960
+4201,"Online Banking, Personal Loan, Mortgage Offer",74000,43,19,0,22800
+3096,"Online Banking, Personal Loan",43000,49,25,0,19200
+2923,"Online Banking, Personal Loan, CD Account",49000,52,26,0,16800
+645,Online Banking,33000,52,27,0,24000
+1050,Online Banking,23000,35,10,0,2400
+3746,"Online Banking, Premium Credit Card",119000,27,3,118000,64800
+4094,"Online Banking, Securities Account, Mortgage Offer",138000,49,24,0,26400
+4404,"Online Banking, Securities Account, Credit Card, Mortgage Offer",112000,50,24,0,0
+121,Online Banking,12000,54,29,0,2400
+2053,"Online Banking, Securities Account, Credit Card",120000,28,3,170000,9600
+4259,"Online Banking, Premium Credit Card, Mortgage Offer",155000,52,26,0,86400
+4889,"Online Banking, Premium Credit Card",121000,25,1,158000,64800
+4335,"Online Banking, Mortgage Offer",92000,55,29,0,22800
+4692,"Online Banking, Personal Loan, Mortgage Offer",65000,41,17,0,25200
+135,"Online Banking, Mortgage Offer",98000,53,29,0,21600
+2461,Online Banking,32000,31,5,130000,3600
+1955,Online Banking,81000,44,20,277000,24000
+2464,"Online Banking, Personal Loan",44000,35,9,0,2400
+185,"Online Banking, Personal Loan, CD Account, Mortgage Offer",63000,52,26,0,18000
+1393,Online Banking,33000,47,23,0,12000
+2277,"Online Banking, Premium Credit Card, Mortgage Offer",172000,29,3,0,52800
+512,"Online Banking, Mortgage Offer",82000,31,5,0,26400
+4730,Online Banking,18000,40,14,0,18000
+4055,"Online Banking, Personal Loan, CD Account",64000,59,34,0,20400
+3138,Online Banking,13000,61,36,0,6000
+2670,Online Banking,10000,43,18,0,1200
+4774,"Online Banking, Personal Loan, CD Account",48000,53,28,0,22800
+4862,Online Banking,18000,49,24,121000,4800
+2118,Online Banking,15000,31,7,0,10800
+252,"Online Banking, Premium Credit Card",170000,54,28,325000,74400
+3527,Online Banking,9000,58,33,0,2400
+3560,"Online Banking, Personal Loan, CD Account, Mortgage Offer",68000,51,25,0,18000
+4012,"Online Banking, Mortgage Offer",88000,47,21,0,20400
+1508,"Online Banking, Personal Loan",50000,43,18,0,22800
+123,"Online Banking, Personal Loan, Credit Card",73000,58,32,0,8400
+4260,"Online Banking, Premium Credit Card",158000,52,26,251000,44400
+3334,"Online Banking, Credit Card",79000,37,13,280000,1200
+1872,Online Banking,99000,31,5,268000,21600
+3693,"Online Banking, Personal Loan, CD Account",64000,57,33,0,26400
+568,Online Banking,28000,34,8,0,10800
+1372,Online Banking,65000,58,32,222000,30000
+3186,"Online Banking, Premium Credit Card, Mortgage Offer",128000,35,10,0,45600
+3956,"Online Banking, Personal Loan, CD Account, Credit Card",58000,62,36,0,9600
+1057,Online Banking,25000,36,6,0,8040
+857,"Online Banking, Personal Loan, CD Account",42000,62,38,0,21600
+3839,Online Banking,71000,37,11,127000,21600
+2861,Online Banking,20000,27,2,0,6000
+4770,Online Banking,20000,26,2,116000,12000
+777,"Online Banking, Premium Credit Card",135000,50,26,91000,55200
+721,Online Banking,38000,58,32,0,26400
+2711,Online Banking,39000,51,27,0,9600
+2655,Online Banking,49000,60,36,204000,26400
+4878,"Online Banking, Personal Loan, CD Account, Credit Card",53000,53,29,0,1200
+603,"Online Banking, Securities Account, Credit Card, Mortgage Offer",135000,29,5,0,7200
+3823,"Online Banking, Premium Credit Card",178000,63,33,0,108000
+1245,"Online Banking, Premium Credit Card",130000,33,8,99000,75600
+4846,"Online Banking, Premium Credit Card, Mortgage Offer",128000,45,21,0,56400
+4842,Online Banking,40000,59,35,135000,4800
+319,"Online Banking, Securities Account",110000,27,2,190000,21600
+829,Online Banking,28000,35,9,75000,12000
+3264,"Online Banking, Premium Credit Card, Mortgage Offer",84000,32,8,0,40800
+275,"Online Banking, Personal Loan, Mortgage Offer",74000,30,5,0,26400
+2665,"Online Banking, Securities Account",154000,54,29,352000,28800
+550,Online Banking,35000,61,36,0,15600
+3642,"Online Banking, Personal Loan",74000,59,35,0,27600
+4054,"Online Banking, Credit Card, Mortgage Offer",90000,35,11,0,0
+4893,Online Banking,35000,43,19,120000,3600
+2935,"Online Banking, Premium Credit Card",195000,37,13,635000,78000
+606,"Online Banking, Personal Loan, CD Account",41000,57,31,0,2400
+897,"Online Banking, Premium Credit Card",161000,50,24,212000,40800
+528,"Online Banking, Credit Card",65000,33,8,89000,1200
+4608,Online Banking,18000,50,23,0,6000
+2348,Online Banking,8000,64,39,87000,1200
+3440,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",80000,43,17,0,1200
+4999,"Online Banking, Personal Loan, CD Account",49000,65,40,0,6000
+4827,"Online Banking, Credit Card",81000,56,31,225000,0
+3923,Online Banking,20000,31,4,0,18000
+299,"Online Banking, Premium Credit Card, Mortgage Offer",81000,43,19,0,38400
+2120,"Online Banking, Personal Loan",50000,39,13,0,6000
+2537,"Online Banking, Premium Credit Card, Mortgage Offer",104000,51,25,0,50400
+4204,Online Banking,88000,59,33,0,22800
+3255,Online Banking,9000,61,37,0,3600
+3726,"Online Banking, Personal Loan, Mortgage Offer",78000,33,6,0,24000
+1261,Online Banking,40000,57,31,137000,16800
+1559,Online Banking,72000,35,10,285000,27600
+3270,"Online Banking, Budget Adjustment Counseling",68000,58,34,113000,33600
+4047,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",72000,25,0,0,31200
+757,Online Banking,82000,56,31,0,15600
+1011,Online Banking,98000,27,3,361000,30000
+2795,Online Banking,35000,52,26,0,21600
+2906,Online Banking,8000,64,40,0,3600
+1871,"Online Banking, Premium Credit Card",110000,63,37,0,49200
+2230,Online Banking,72000,46,22,149000,16800
+1174,Online Banking,35000,24,-1,0,20400
+1833,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",79000,54,29,0,45600
+377,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",61000,45,21,0,8400
+3854,"Online Banking, Mortgage Offer",83000,45,21,0,24000
+3617,Online Banking,69000,41,15,78000,18000
+799,Online Banking,38000,29,2,0,24000
+379,Online Banking,38000,47,23,0,25200
+1159,"Online Banking, Mortgage Offer",99000,41,16,0,12000
+3820,"Online Banking, Personal Loan, CD Account",50000,57,27,0,24000
+2793,Online Banking,44000,54,30,117000,18000
+2241,"Online Banking, Credit Card",81000,41,17,167000,2400
+4036,"Online Banking, Premium Credit Card, Mortgage Offer",180000,34,9,0,78000
+2663,"Online Banking, Securities Account",158000,65,41,0,25200
+4013,"Online Banking, Securities Account, Credit Card, Mortgage Offer",124000,30,6,0,7200
+2958,"Online Banking, Personal Loan, CD Account, Credit Card",53000,61,36,0,6000
+3928,Online Banking,38000,59,34,0,20400
+1039,"Online Banking, Premium Credit Card",145000,56,30,0,68400
+3260,"Online Banking, Personal Loan",54000,33,8,0,27600
+1345,"Online Banking, Premium Credit Card, Mortgage Offer",93000,49,25,0,32400
+2506,"Online Banking, Personal Loan",43000,33,7,0,9600
+1722,Online Banking,59000,54,29,152000,27600
+4664,"Online Banking, Securities Account",115000,28,3,200000,22800
+176,"Online Banking, Mortgage Offer",85000,45,20,0,13200
+4894,Online Banking,39000,42,12,0,24000
+1910,"Online Banking, Securities Account, Mortgage Offer",101000,56,30,0,20400
+46,"Online Banking, Personal Loan, CD Account",52000,57,31,0,30000
+3410,"Online Banking, Securities Account",113000,29,5,84000,24000
+4675,"Online Banking, Premium Credit Card",93000,40,14,328000,33600
+1076,"Online Banking, Personal Loan, Credit Card",59000,41,15,0,2400
+2830,Online Banking,82000,35,9,138000,30000
+1505,"Online Banking, Premium Credit Card, Mortgage Offer",191000,30,6,0,52800
+2310,Online Banking,29000,36,12,81000,15960
+1437,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",80000,46,21,0,4800
+2419,Online Banking,28000,41,17,0,8400
+3987,"Online Banking, Premium Credit Card, Mortgage Offer",182000,38,14,0,31200
+3099,Online Banking,21000,41,16,0,1200
+4589,"Online Banking, Mortgage Offer",85000,35,10,0,25200
+284,Online Banking,40000,61,36,0,6000
+4919,Online Banking,42000,50,25,110000,8400
+843,"Online Banking, Personal Loan",54000,34,10,0,24000
+1514,"Online Banking, Securities Account",183000,45,21,354000,16800
+1169,Online Banking,38000,62,37,0,13200
+1593,"Online Banking, Premium Credit Card",192000,56,31,0,84000
+3461,Online Banking,84000,63,37,0,28800
+3166,"Online Banking, Premium Credit Card",140000,63,37,97000,82800
+2285,Online Banking,22000,47,23,0,7200
+3576,Online Banking,15000,63,38,83000,7200
+4871,Online Banking,28000,55,30,0,24000
+2306,"Online Banking, Premium Credit Card, Mortgage Offer",185000,32,7,0,80400
+953,"Online Banking, Premium Credit Card",180000,44,20,524000,91200
+4943,"Online Banking, Securities Account",109000,52,26,308000,28800
+3054,"Online Banking, Securities Account, Credit Card, Mortgage Offer",114000,28,4,0,2400
+4560,"Online Banking, Securities Account",101000,47,20,270000,24000
+2686,"Online Banking, Securities Account, Mortgage Offer",101000,28,2,0,25200
+1490,Online Banking,99000,62,38,0,20400
+928,"Online Banking, Premium Credit Card",95000,65,40,138000,44400
+1210,"Online Banking, Budget Adjustment Counseling",52000,46,21,228000,32400
+3974,"Online Banking, Budget Adjustment Counseling",53000,61,35,167000,33600
+3546,"Online Banking, Securities Account, Mortgage Offer",174000,48,22,0,28800
+4362,Online Banking,42000,55,30,196000,24000
+1922,"Online Banking, Credit Card",63000,45,21,245000,9600
+352,"Online Banking, Premium Credit Card, Mortgage Offer",155000,28,4,0,63600
+4899,Online Banking,19000,52,26,96000,16800
+3394,"Online Banking, Credit Card, Mortgage Offer",81000,37,11,0,10800
+2722,"Online Banking, Premium Credit Card",173000,58,33,0,86400
+4982,"Online Banking, Premium Credit Card",195000,34,9,122000,36000
+719,Online Banking,21000,56,31,137000,2400
+2703,"Online Banking, Premium Credit Card",144000,42,18,158000,73200
+2723,Online Banking,31000,58,34,0,4800
+4562,"Online Banking, Personal Loan, CD Account",59000,59,33,0,16800
+309,"Online Banking, Premium Credit Card, Mortgage Offer",128000,32,8,0,51960
+1676,"Online Banking, Premium Credit Card",119000,60,35,0,46800
+834,"Online Banking, Personal Loan, CD Account",63000,61,35,0,26400
+367,Online Banking,35000,50,24,0,3600
+4507,"Online Banking, Premium Credit Card",89000,39,13,153000,33600
+2079,Online Banking,21000,35,11,0,12000
+4039,"Online Banking, Personal Loan, CD Account",54000,55,30,0,20400
+4847,"Online Banking, Premium Credit Card, Mortgage Offer",135000,35,10,0,57600
+4480,"Online Banking, Premium Credit Card, Mortgage Offer",128000,32,8,0,51960
+1747,Online Banking,25000,62,36,0,3600
+20,Online Banking,21000,55,28,0,6000
+1323,"Online Banking, Personal Loan",48000,32,5,0,20040
+3568,Online Banking,43000,51,26,123000,15600
+2522,Online Banking,29000,49,23,0,21600
+219,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",72000,44,20,0,3600
+1488,"Online Banking, Securities Account, Mortgage Offer",159000,28,4,0,18000
+439,"Online Banking, Premium Credit Card",113000,58,32,119000,45600
+4175,"Online Banking, Personal Loan, Credit Card",59000,40,14,0,6000
+2751,Online Banking,24000,57,33,0,1200
+3289,"Online Banking, Securities Account, Credit Card",140000,56,30,292000,6000
+3434,"Online Banking, Personal Loan",60000,34,9,0,15600
+2526,"Online Banking, Personal Loan",60000,32,8,0,14400
+4651,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",63000,47,23,0,9600
+3689,"Online Banking, Premium Credit Card, Mortgage Offer",179000,51,26,0,97200
+2764,Online Banking,13000,55,31,0,8400
+803,Online Banking,51000,36,12,214000,24000
+2998,"Online Banking, Personal Loan",80000,57,33,0,19200
+2229,"Online Banking, Personal Loan",43000,48,23,0,22800
+4786,Online Banking,23000,30,5,0,10800
+2078,"Online Banking, Premium Credit Card, Mortgage Offer",160000,34,9,0,96000
+583,"Online Banking, Credit Card",72000,44,18,155000,8400
+204,"Online Banking, Personal Loan, CD Account",65000,58,34,0,26400
+4347,Online Banking,33000,45,21,136000,6000
+3479,"Online Banking, Securities Account, Mortgage Offer",133000,31,6,0,18000
+2930,Online Banking,22000,32,6,0,3600
+3086,"Online Banking, Personal Loan, CD Account, Credit Card, Mortgage Offer",71000,55,29,0,3600
+1019,"Online Banking, Credit Card",61000,39,15,127000,7200
+1584,"Online Banking, Securities Account",184000,61,36,342000,27600
+1033,"Online Banking, Personal Loan",42000,37,12,0,8400
+1719,Online Banking,19000,40,16,0,4800
+1282,"Online Banking, Personal Loan",52000,39,15,0,27960
+2499,"Online Banking, Premium Credit Card",111000,38,14,326000,73200
+3351,"Online Banking, Mortgage Offer",95000,28,3,0,21600
+518,Online Banking,43000,54,27,169000,12000
+1748,Online Banking,21000,29,5,89000,4800
+4653,"Online Banking, Premium Credit Card, Mortgage Offer",184000,38,12,0,96000
+3733,Online Banking,18000,26,1,95000,10800
+669,Online Banking,18000,66,41,0,6000
+4060,Online Banking,39000,53,27,0,18000
+3027,"Online Banking, Credit Card",81000,44,20,228000,9600
+4933,"Online Banking, Premium Credit Card",111000,59,35,0,51600
+3287,"Online Banking, Personal Loan, CD Account, Budget Adjustment Counseling",58000,62,36,0,33600
+2651,Online Banking,52000,64,40,226000,13200
+4454,Online Banking,11000,37,11,0,1200
+3193,Online Banking,35000,65,39,0,6000
+2125,Online Banking,44000,35,9,89000,10800
+3376,"Online Banking, Mortgage Offer",88000,43,18,0,13200
+3393,"Online Banking, Personal Loan",58000,32,7,0,12000
+3486,Online Banking,39000,39,13,0,9600
+760,"Online Banking, Personal Loan, CD Account",59000,53,28,0,22800
+3380,Online Banking,83000,65,41,0,24000
+4441,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",75000,43,19,0,3600
+2527,"Online Banking, Personal Loan",50000,26,1,0,7200
+4859,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",62000,50,24,0,9600
+908,Online Banking,15000,64,40,115000,3600
+2684,Online Banking,19000,51,25,98000,16800
+215,"Online Banking, Mortgage Offer",94000,54,28,0,22800
+3332,Online Banking,21000,67,42,0,1200
+4459,"Online Banking, Credit Card",90000,48,22,205000,9600
+694,Online Banking,40000,40,15,107000,26400
+1504,"Online Banking, Personal Loan",52000,34,8,0,26400
+2415,"Online Banking, Premium Credit Card, Mortgage Offer",134000,34,10,0,48000
+2119,"Online Banking, Securities Account, Mortgage Offer",125000,31,5,0,15600
+3859,"Online Banking, Securities Account, Credit Card",158000,42,18,277000,4800
+2463,Online Banking,23000,52,28,0,4800
+3636,Online Banking,24000,58,33,0,6000
+4106,"Online Banking, Premium Credit Card",139000,39,15,353000,40800
+4479,"Online Banking, Personal Loan",53000,33,9,0,25200
+197,"Online Banking, Premium Credit Card, Mortgage Offer",165000,48,24,0,60000
+4668,"Online Banking, Personal Loan, Mortgage Offer",72000,52,28,0,19200
+1544,"Online Banking, Securities Account, Mortgage Offer",101000,52,26,0,28800
+1331,"Online Banking, Credit Card",64000,34,9,224000,1200
+880,Online Banking,84000,63,37,0,22800
+4503,"Online Banking, Personal Loan, Credit Card",80000,57,32,0,0
+3502,"Online Banking, Securities Account",105000,65,39,0,20400
+3895,Online Banking,44000,32,6,81000,3600
+4991,Online Banking,58000,55,25,219000,24000
+888,"Online Banking, Premium Credit Card, Mortgage Offer",118000,41,16,0,39600
+1346,Online Banking,23000,57,32,0,2400
+69,"Online Banking, Personal Loan",60000,47,21,0,25200
+4211,"Online Banking, Personal Loan",43000,35,8,0,20040
+1816,Online Banking,18000,65,39,0,4800
+569,Online Banking,41000,34,9,161000,1200
+2168,"Online Banking, Securities Account",162000,65,40,0,15600
+97,"Online Banking, Personal Loan, Budget Adjustment Counseling, Mortgage Offer",80000,41,15,0,62400
+4182,Online Banking,22000,47,22,0,4800
+3354,Online Banking,19000,49,23,0,7200
+140,Online Banking,18000,59,35,0,14400
+4955,Online Banking,22000,45,19,0,18000
+2603,"Online Banking, Premium Credit Card, Mortgage Offer",161000,52,26,0,51600
+4024,"Online Banking, Securities Account, Credit Card",175000,51,25,312000,8400
+4773,"Online Banking, Credit Card, Mortgage Offer",95000,26,2,0,9600
+1607,Online Banking,33000,35,10,87000,20400
+1630,"Online Banking, Premium Credit Card, Mortgage Offer",154000,53,29,0,88800
+1540,Online Banking,21000,29,5,119000,10800
+1695,Online Banking,35000,48,23,118000,4800
+2060,"Online Banking, Premium Credit Card",173000,28,3,222000,80400
+464,"Online Banking, Premium Credit Card, Mortgage Offer",149000,48,22,0,66000
+2331,Online Banking,72000,31,5,242000,21600
+3044,"Online Banking, Personal Loan, Budget Adjustment Counseling",42000,47,22,0,32400
+4735,Online Banking,64000,63,39,147000,21600
+595,"Online Banking, Credit Card",85000,50,26,144000,0
+3815,Online Banking,35000,34,9,0,15600
+626,Online Banking,64000,52,28,211000,12000
+451,"Online Banking, Personal Loan, CD Account, Credit Card, Mortgage Offer",69000,51,25,0,3600
+1500,"Online Banking, Premium Credit Card, Mortgage Offer",91000,52,26,0,51600
+2457,Online Banking,39000,54,30,0,9600
+4723,"Online Banking, Personal Loan, Mortgage Offer",63000,40,16,0,18000
+2985,Online Banking,94000,54,28,188000,13200
+1570,Online Banking,44000,51,27,141000,22800
+1035,Online Banking,84000,49,23,134000,25200
+3519,"Online Banking, Premium Credit Card",129000,60,36,0,72000
+1558,"Online Banking, Personal Loan, CD Account",41000,51,25,0,21600
+3625,"Online Banking, Personal Loan, CD Account",70000,58,28,0,16800
+4665,"Online Banking, Credit Card",83000,62,37,0,1200
+151,"Online Banking, Premium Credit Card, Mortgage Offer",118000,46,22,0,90000
+1421,Online Banking,40000,30,4,0,3600
+2012,Online Banking,39000,46,21,0,0
+2687,"Online Banking, Credit Card, Mortgage Offer",81000,50,24,0,4800
+1787,Online Banking,34000,35,11,0,18000
+89,"Online Banking, Personal Loan, CD Account",51000,65,41,0,13200
+458,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",69000,29,3,0,3600
+1306,Online Banking,28000,32,6,88000,3600
+2926,"Online Banking, Personal Loan, CD Account",42000,59,35,0,4800
+3271,"Online Banking, Premium Credit Card, Mortgage Offer",179000,50,23,0,43200
+3228,Online Banking,18000,31,7,0,4800
+1989,Online Banking,18000,52,28,120000,3600
+3755,"Online Banking, Securities Account",112000,63,37,0,28800
+3647,"Online Banking, Premium Credit Card",141000,34,9,260000,82800
+832,"Online Banking, Personal Loan, CD Account",49000,61,31,0,20040
+240,"Online Banking, Personal Loan",52000,28,3,0,20400
+4682,"Online Banking, Personal Loan, Credit Card, Mortgage Offer",68000,27,3,0,0
+3023,Online Banking,89000,59,33,0,22800
+3149,Online Banking,19000,48,22,106000,1200
+1947,"Online Banking, Personal Loan, CD Account",58000,53,23,0,24000
+2776,"Online Banking, Premium Credit Card, Mortgage Offer",163000,38,13,0,49200
+193,"Online Banking, Premium Credit Card, Mortgage Offer",85000,50,23,0,32040
+4850,"Online Banking, Personal Loan, Mortgage Offer",65000,49,25,0,12000
+4940,Online Banking,70000,54,29,116000,24000
+945,Online Banking,22000,41,15,0,18000
+1269,"Online Banking, Personal Loan, Mortgage Offer",62000,34,9,0,27600
+4232,Online Banking,60000,56,32,227000,21600
+2308,"Online Banking, Personal Loan, CD Account",60000,56,31,0,20400
+4425,"Online Banking, Personal Loan",54000,35,10,0,30000
+4712,"Online Banking, Personal Loan, CD Account",59000,65,40,0,28800
+2314,"Online Banking, Personal Loan, CD Account, Credit Card",54000,58,32,0,3600
+3215,Online Banking,33000,61,37,0,1200
+2733,Online Banking,38000,33,9,133000,25200
+1927,"Online Banking, Personal Loan",41000,30,6,0,28800
